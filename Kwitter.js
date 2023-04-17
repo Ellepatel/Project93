@@ -1,0 +1,1 @@
+localStorage.setItem("Kwitter_room.html");
